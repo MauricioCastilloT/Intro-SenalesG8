@@ -62,7 +62,7 @@ Por otro lado, la electromiografía, es un estudio que evalúa la salud de los m
 
 <p align="center">
 <img src="https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/70769712/62f38fef-b5e2-4a2e-8fa8-dcc255b9e13a"
-width="350" height="250"/>
+width="400" height="250"/>
 </p>
 
 
