@@ -30,7 +30,8 @@ Los músculos esqueléticos están distribuidos a lo largo de todo el cuerpo don
 En la espalda hay una variedad de músculos que cumplen diferentes funciones; proporcionan soporte a la columna vertebral y el tronco, facilitan el movimiento del cuerpo, mantienen la postura erguida y asisten en la respiración; y se subdividen en músculos extrínsecos e intrínsecos [3]. El trapecio es un músculo extrínseco que se encuentra en la parte superficial de la espalda,  es amplio, plano y se extiende desde la región cervical hasta la parte torácica del tronco; este muslo desempeña un papel importante en la postura ya que ayuda a mantener la columna vertebral erguida y también participa en movimientos activos como la flexión lateral y rotación de la cabeza ,y la elevacion y depresion de hombros [4]. 
 
 <p align="center">
-<img src="https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/70769712/224a03a1-c934-4466-841d-1a3f4d9f178e"/>
+<img src="https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/70769712/224a03a1-c934-4466-841d-1a3f4d9f178e"
+width="300" height="350"/>
 </p>
 
 ## Motivación
