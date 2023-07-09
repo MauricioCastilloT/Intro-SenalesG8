@@ -1,5 +1,4 @@
-#  <center>Wearable to detect electromyographic changes in the trapezius muscle due to improper posture while sitting for long periods of time</center>
-
+# \begin{center}Wearable to detect electromyographic changes in the trapezius muscle due to improper posture while sitting for long periods of time\end{center}
 # Detección de cambios electromiograficso en el msuculo trapecio por mantener mala postura por largos epriodos de tiempo
 
 print("Bienvenidos al repositorio del grupo 8.")
