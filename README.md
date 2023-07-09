@@ -35,6 +35,14 @@ En la espalda hay una variedad de músculos que cumplen diferentes funciones; pr
 width="325" height="350"/>
 </p>
 
+La postura se puede definir como todo posición determina el mantenimiento del equilibrio con mala estabilidad, mínimo consumo de energía y mínimo estrés de las estructuras anatómicas por las que está controlado [5]; el mantener una buena postura es muy importante  para la salud, sin embargo, desarrollar un hábito de buena postura no era sencillo y la falta de corrección de la misma puede provocar, con el tiempo, consecuencias negativas duraderas en els sistema musculoesquelético del cuerpo e incluso en otros sistemas [6].
+
+| Mala postura | Buena postura |
+|-----------------------|----------------|
+|![image](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/70769712/9292cadc-5278-4f19-8dd3-cd8ab0afa260)|![image](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/70769712/9b07bb4b-9c1b-460a-8cb2-f6e66d3fdce5)|
+
+La fatiga muscular se presenta como una disminución en la habilidad para mantener un nivel específico de fuerza durante una contracción prolongada, así como la incapacidad para alcanzar el nivel de fuerza inicial en contracciones intermitentes; el estado de fatiga se caracteriza por alteraciones en la actividad eléctrica de los músculos [7] . Al mantener una mala postura, podemos provocar fatiga muscular, en especial cuando adoptamos posturas incorrectas durante largos periodos de tiempo, especialmente posiciones estéticas, nuestros músculos deben trabajar más para mantener el equilibrio. 
+
 ## Motivación
 
 ## Principales hallazgos
