@@ -31,7 +31,7 @@ En la espalda hay una variedad de músculos que cumplen diferentes funciones; pr
 
 <p align="center">
 <img src="https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/70769712/224a03a1-c934-4466-841d-1a3f4d9f178e"
-width="300" height="350"/>
+width="325" height="350"/>
 </p>
 
 ## Motivación
