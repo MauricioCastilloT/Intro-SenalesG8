@@ -1,4 +1,6 @@
-# Análisis de la fatiga muscular orientada a la detección y prevención de tendinitis aquiliana
+# Wearable to detect electromyographic changes in the trapezius muscle due to improper posture while sitting for long periods of time
+
+# Detección de cambios electromiograficso en el msuculo trapecio por mantener mala postura por largos epriodos de tiempo
 
 print("Bienvenidos al repositorio del grupo 8.")
 
