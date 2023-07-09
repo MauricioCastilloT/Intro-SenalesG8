@@ -11,6 +11,7 @@ En esta oportunidad trabajaremos en un proyecto de procesamiento de señales de 
 * [Introducción](#introducción)
 * [Motivación](#motivación)
 * [Principales hallazgos](#principales-hallazgos)
+* [Bibliografía](#bibliografía)
 
 ## Resumen 
 
