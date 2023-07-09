@@ -23,7 +23,9 @@ El sistema muscular de la anatomía humana consta de un conjunto de cientos de m
 ### Músculo esquelético
 Los músculos esqueléticos están distribuidos a lo largo de todo el cuerpo donde tienen diferentes formas, tamaños y disposición de fibras; este tipo de músculos son los encargados del movimiento voluntario de los esqueletos axial y apendicular y también es el principal encargado de mantener la postura y posición corporal [2]. 
 
-![fibra-muscular](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/70769712/3ab9b345-322c-4c1a-8485-9be828735278)
+<p align="center">
+<img src="https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/70769712/3ab9b345-322c-4c1a-8485-9be828735278"/>
+</p>
 
 ## Motivación
 
