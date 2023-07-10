@@ -85,6 +85,9 @@ Para la identificación de fatiga usando electromiografía principalmente se obs
 width="400" height="250"/>
 </p>
 
+<p align="center">
+  <em>Figura 3. Electromiografía </em>
+</p>
 
 ## Motivación
 <p align=justify>De acuerdo con el Instituto Nacional de Seguridad y Salud Ocupacional (NIOSH) [9], existe un sólido respaldo de evidencia que establece una relación causal entre los movimientos repetitivos y los trastornos músculo-esqueléticos del cuello y los hombros. Asimismo, por estudios realizados se observó que aquellos individuos que pasaban más de ocho horas diarias sentados sin realizar actividad física presentaban un riesgo de mortalidad similar al asociado con la obesidad y el tabaquismo [10].  Además de los riesgos relacionados con el sistema musculoesquelético, se ha planteado una preocupación acerca del impacto del comportamiento sedentario en la cognición, lo cual podría afectar el desempeño de los trabajadores de oficina. Investigaciones recientes sugieren que existe una posible asociación negativa entre el comportamiento sedentario habitual y la función cognitiva [11]. Al considerar los efectos agudos, encontraron que realizar tareas durante períodos prolongados (90 minutos) de sedestación resultó en un menor rendimiento laboral. Además, el estado mental también ha sido examinado en estudios de laboratorio, donde se reportaron niveles más altos de fatiga durante la sedestación prolongada en comparación con otras posturas de trabajo [12]. Estudios de campo que compararon el sentarse con posiciones de trabajo sentado y de pie encontraron que el sentarse se asociaba con mayor fatiga y una percepción de menor nivel de energía, así como una disminución en la concentración y la productividad [13].</p>
