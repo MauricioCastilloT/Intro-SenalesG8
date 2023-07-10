@@ -1,10 +1,12 @@
 # Wearable to detect electromyographic changes in the trapezius muscle due to improper posture while sitting for long periods of time
 # Detección de cambios electromiograficso en el msuculo trapecio por mantener mala postura por largos epriodos de tiempo
 
+```python
 print("Bienvenidos al repositorio del grupo 8.")
 
 Somos un equipo de estudiantes de Ingeniería Biomédica de las universidades PUCP y UPCH semestre 2023-1. 
 En esta oportunidad trabajaremos en un proyecto de procesamiento de señales de ECG.
+```
 
 ## Tabla de contenidos:
 * [Resumen](#resumen)
