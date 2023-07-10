@@ -74,13 +74,14 @@ Los resultados del electrocardiograma proporcionan la siguiente información:
 
 - <p align=justify> <b>Evaluación de trastornos neuromusculares</b>: El EMG es útil en el diagnóstico y la evaluación de trastornos neuromusculares, como neuropatías periféricas (daño a los nervios periféricos), miopatías (enfermedades musculares) y enfermedades de la unión neuromuscular. Ayuda a identificar la ubicación y la gravedad del daño o la disfunción.</p>
 
-- **Debilidad muscular inexplicada**: Si una persona experimenta debilidad muscular inexplicada o pérdida de fuerza, el EMG puede ayudar a determinar si la causa se encuentra en el sistema nervioso central (cerebro y médula espinal) o en el sistema periférico (nervios y músculos).
+- <p align=justify> <b>Debilidad muscular inexplicada</b>: Si una persona experimenta debilidad muscular inexplicada o pérdida de fuerza, el EMG puede ayudar a determinar si la causa se encuentra en el sistema nervioso central (cerebro y médula espinal) o en el sistema periférico (nervios y músculos).</p>
 
-- **Dolor o entumecimiento en las extremidades**: El EMG puede ser utilizado para evaluar afecciones como el síndrome del túnel carpiano, la ciática y otras neuropatías compresivas que pueden causar dolor, entumecimiento o debilidad en las extremidades.
+- <p align=justify> <b>Dolor o entumecimiento en las extremidades</b>: El EMG puede ser utilizado para evaluar afecciones como el síndrome del túnel carpiano, la ciática y otras neuropatías compresivas que pueden causar dolor, entumecimiento o debilidad en las extremidades.</p>
 
-- **Trastornos del movimiento**: En casos de trastornos del movimiento, como el temblor o la distonía, el EMG puede ayudar a evaluar la actividad muscular anormal y a diferenciar entre los trastornos de origen muscular y los de origen neurológico.
+- <p align=justify> <b>Trastornos del movimiento</b>: En casos de trastornos del movimiento, como el temblor o la distonía, el EMG puede ayudar a evaluar la actividad muscular anormal y a diferenciar entre los trastornos de origen muscular y los de origen neurológico.</p>
 
-- **Lesiones de nervios periféricos**: Si se sospecha una lesión en un nervio periférico, como una lesión por atrapamiento o una lesión traumática, el EMG puede ayudar a localizar y evaluar el alcance de la lesión.
+- <p align=justify> <b>Lesiones de nervios periféricos</b>: Si se sospecha una lesión en un nervio periférico, como una lesión por atrapamiento o una lesión traumática, el EMG puede ayudar a localizar y evaluar el alcance de la lesión.</p>
+
 <!--END_SECTION:waka-->
 </details>
 
