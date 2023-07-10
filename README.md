@@ -7,7 +7,7 @@ print("Bienvenidos al repositorio del grupo 8.")
 Somos un equipo de estudiantes de Ingeniería Biomédica de las universidades PUCP y UPCH semestre 2023-1. 
 En esta oportunidad trabajaremos en un proyecto de procesamiento de señales de EMG.
 ```
-
+Para conocer más sobre el equipo desarrollador ingresar al siguiente [enlace](https://github.com/MauricioCastilloT/Intro-SenalesG8/blob/0d16ce2035884b2f71158d1f6cc3fa72c79879fb/ISB/Laboratorios/SobreNosotros.md)
 ## Tabla de contenidos:
 * [Resumen](#resumen)
 * [Introducción](#introducción)
