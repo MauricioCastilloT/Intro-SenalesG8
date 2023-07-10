@@ -29,26 +29,34 @@
 
 <p align=justify>La parte electrónica del dispositivo consta de los siguientes componentes:</p>
 
-- Sensor MyoWare: Con capacidad para 3 electrodos, es usado para registrar la actividad eléctrica del músculo trapecio.
+- <p align=justify> <b>Sensor MyoWare:</b> Con capacidad para 3 electrodos, es usado para registrar la actividad eléctrica del músculo trapecio.</p>
   
-![im1](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/128628500/6923d645-890d-48b4-aae7-2f22a556c2de)
+<p align="center"><img src=https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/128628500/6923d645-890d-48b4-aae7-2f22a556c2de/></p>
 
-
-- ESP32 WROOM 32: Realiza la función de microcontrolador que lee y transmite las señales leves obtenidas.
+<p align="center">
+  <em>Figura 3. Sensor MyoWare </em>
+</p>
+- <p align=justify> <b>ESP32 WROOM 32:</b> Realiza la función de microcontrolador que lee y transmite las señales leves obtenidas.</p>
   
-![im2](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/128628500/b92812da-6b6c-4935-9057-7410fefb46a2)
+<p align="center"><img src=https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/128628500/b92812da-6b6c-4935-9057-7410fefb46a2/></p>
+<p align="center">
+  <em>Figura 4. ESP32 WROOM 32 </em>
+</p>
 
-
-- Componentes complementarios: Un botón como actuador regula la energía que alimenta al dispositivo, mientras los LEDs hacen de indicadores visuales para indicar el inicio de adquisición.
+- <p align=justify> <b>Componentes complementarios:</b> Un botón como actuador regula la energía que alimenta al dispositivo, mientras los LEDs hacen de indicadores visuales para indicar el inicio de adquisición.</p>
   
-![im3](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/128628500/98d604ae-af74-4687-ab8f-ed4432ed553d)
-
+<p align="center"><img src=https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/128628500/98d604ae-af74-4687-ab8f-ed4432ed553d/></p>
+<p align="center">
+  <em>Figura 5. Componentes complementarios </em>
+</p>
 
 ## Diseño Esquemático del prototipo
 
 <p align="center"><img src=https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/128628500/53ab3546-85f0-4f6b-ae2a-377cd49d7669/></p>
 
-
+<p align="center">
+  <em>Figura 6. Diagrama esquemático finalizado del prototipo </em>
+</p>
 <p align=justify>Se realizaron las conexiones como se muestran en la figura con los componentes mencionados para obtener la señal EMG. El funcionamiento del prototipo para la adquisición de la señal es la siguiente:</p>
 
 - <p align=justify> <b>Electrodos en la espalda:</b> se colocan los electrodos en la posición discutida anteriormente. Los electrodos se posicionan sobre el Myoware.</p>
