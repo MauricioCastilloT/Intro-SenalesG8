@@ -53,8 +53,8 @@ width="325" height="350"/>
 Para la identificación de fatiga usando electromiografía principalmente se observan los parámetros de: 
   
 * <b>Amplitud pico-pico</b>, donde es anticipado que la señala aumenta en amplitud ya que los músculos intentan mantener la misma fuerza reclutando unidades motoras adicionales en respuesta a la fatiga. 
-* La media y mediana del espectro de frecuencia.
-* La frecuencia ya que la velocidad de conducción de fibra disminuye [7].</p>
+* <b>La media y mediana</b> del espectro de frecuencia.
+* <b>La frecuencia</b> ya que la velocidad de conducción de fibra disminuye [7].</p>
 
 
 
