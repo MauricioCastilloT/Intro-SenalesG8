@@ -49,17 +49,17 @@ habilidades de cada miembro que contribuyan a que todos comprendan y apliquen lo
  <summary> <b>Resultados</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-Los resultados del electrocardiograma proporcionan la siguiente información:
- 
-- Frecuencia cardíaca
- 
-- Ritmo cardíaco
- 
-- Ataque cardiaco: anterior o que este ocurriendo
- 
-- Suministro de sangre y oxígeno al corazón
- 
-- Cambios en la estructura cardíaca
+<p align=justify>Un electromiograma (EMG) proporciona varios resultados importantes que ayudan a evaluar la función y la salud de los músculos y los nervios. Algunos de los resultados que se obtienen de un EMG incluyen:</p>
+
+- Actividad eléctrica muscular
+
+- Detección de patrones anormales
+
+- Evaluación de la función nerviosa
+
+- Localización de lesiones
+
+- Evaluación de la actividad muscular durante la contracción
  
 <!--END_SECTION:waka-->
 </details>
