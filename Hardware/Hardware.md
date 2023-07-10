@@ -36,6 +36,7 @@
 <p align="center">
   <em>Figura 3. Sensor MyoWare </em>
 </p>
+
 - <p align=justify> <b>ESP32 WROOM 32:</b> Realiza la función de microcontrolador que lee y transmite las señales leves obtenidas.</p>
   
 <p align="center"><img src=https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/128628500/b92812da-6b6c-4935-9057-7410fefb46a2/></p>
