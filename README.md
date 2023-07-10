@@ -23,15 +23,15 @@ El sistema muscular de la anatomía humana consta de un conjunto de cientos de m
 
 <div align="center">
   
-| Músculos esqueleticos | Músculos lisos | Músculos cardiaco|
+| Músculos esqueléticos | Músculos lisos | Músculos cardíacos|
 |-----------------------|----------------|------------------|
 | ![image](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/70769712/0eca334d-5393-4a47-9e30-ba06e06b641e)|![image](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/70769712/aa5d5e7d-7b18-40f7-8d99-e20fad612b7a)| ![image](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/70769712/f214e581-5279-4d49-9f12-56dbd013d9f0)|
 
 </div>
   
 ### Músculo esquelético
-<p align=justify>Los músculos esqueléticos están distribuidos a lo largo de todo el cuerpo donde tienen diferentes formas, tamaños y disposición de fibras; este tipo de músculos son los encargados del movimiento voluntario de los esqueletos axial y apendicular y también es el principal encargado de mantener la postura y posición corporal [2]. 
-En la espalda hay una variedad de músculos que cumplen diferentes funciones; proporcionan soporte a la columna vertebral y el tronco, facilitan el movimiento del cuerpo, mantienen la postura erguida y asisten en la respiración; y se subdividen en músculos extrínsecos e intrínsecos [3]. El trapecio es un músculo extrínseco que se encuentra en la parte superficial de la espalda,  es amplio, plano y se extiende desde la región cervical hasta la parte torácica del tronco; este muslo desempeña un papel importante en la postura ya que ayuda a mantener la columna vertebral erguida y también participa en movimientos activos como la flexión lateral y rotación de la cabeza ,y la elevacion y depresion de hombros [4].</p>
+<p align=justify>Los músculos esqueléticos están distribuidos a lo largo de todo el cuerpo donde tienen diferentes formas, tamaños y disposición de fibras; este tipo de músculos son los encargados del movimiento voluntario de los esqueletos axial y apendicular, también es el principal encargado de mantener la postura y posición corporal [2]. 
+En la espalda hay una variedad de músculos que cumplen diferentes funciones; proporcionan soporte a la columna vertebral y el tronco, facilitan el movimiento del cuerpo, mantienen la postura erguida y asisten en la respiración; y se subdividen en músculos extrínsecos e intrínsecos [3]. El trapecio es un músculo extrínseco que se encuentra en la parte superficial de la espalda,  es amplio, plano y se extiende desde la región cervical hasta la parte torácica del tronco; este músculo desempeña un papel importante en la postura ya que ayuda a mantener la columna vertebral erguida y también participa en movimientos activos como la flexión lateral y rotación de la cabeza , la elevacion y depresión de hombros [4].</p>
 
 <p align="center">
 <img src="https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/70769712/224a03a1-c934-4466-841d-1a3f4d9f178e"
@@ -39,7 +39,7 @@ width="325" height="350"/>
 </p>
 
 ### Postura
-<p align=justify>La postura se puede definir como todo posición determina el mantenimiento del equilibrio con mala estabilidad, mínimo consumo de energía y mínimo estrés de las estructuras anatómicas por las que está controlado [5]; el mantener una buena postura es muy importante  para la salud, sin embargo, desarrollar un hábito de buena postura no era sencillo y la falta de corrección de la misma puede provocar, con el tiempo, consecuencias negativas duraderas en els sistema musculoesquelético del cuerpo e incluso en otros sistemas [6].</p>
+<p align=justify>La postura se puede definir como toda posición que determina el mantenimiento del equilibrio, mínimo consumo de energía y mínimo estrés de las estructuras anatómicas por las que está controlado [5], el mantener una buena postura es muy importante  para la salud; sin embargo, desarrollar un hábito de buena postura no es sencillo y la falta de corrección de la misma puede provocar, con el tiempo, consecuencias negativas duraderas en el sistema musculoesquelético del cuerpo e incluso en otros sistemas [6].</p>
 
 <div align="center">
   
@@ -49,13 +49,17 @@ width="325" height="350"/>
 
 </div>
 
-<p align=justify>La fatiga muscular se presenta como una disminución en la habilidad para mantener un nivel específico de fuerza durante una contracción prolongada, así como la incapacidad para alcanzar el nivel de fuerza inicial en contracciones intermitentes; el estado de fatiga se caracteriza por alteraciones en la actividad eléctrica de los músculos [7] . Al mantener una mala postura, podemos provocar fatiga muscular, en especial cuando adoptamos posturas incorrectas durante largos periodos de tiempo, especialmente posiciones estéticas, nuestros músculos deben trabajar más para mantener el equilibrio. 
-Para la identificación de fatiga usando electromiografía principal lemmy se observan los parámetros de: amplitud pico-pico, donde es anticipado que la señala aumenta en amplitud ya que los músculos intentan mantener la misma fuerza reclutando unidades motoras adicionales en respuesta a la fatiga; la media y mediana del espectro de frecuencia; y la frecuencia, ya que la velocidad de conducción de fibra disminuye [7].</p>
+<p align=justify>La fatiga muscular se presenta como una disminución en la habilidad para mantener un nivel específico de fuerza durante una contracción prolongada, así como la incapacidad para alcanzar el nivel de fuerza inicial en contracciones intermitentes; el estado de fatiga se caracteriza por alteraciones en la actividad eléctrica de los músculos [7] . Al mantener una mala postura, podemos provocar fatiga muscular, en especial cuando adoptamos posturas incorrectas durante largos periodos de tiempo, en particular durante posiciones estéticas nuestros músculos deben trabajar más para mantener el equilibrio. 
+Para la identificación de fatiga usando electromiografía principalmente se observan los parámetros de: 
+  
+*Amplitud pico-pico, donde es anticipado que la señala aumenta en amplitud ya que los músculos intentan mantener la misma fuerza reclutando unidades motoras adicionales en respuesta a la fatiga. 
+*La media y mediana del espectro de frecuencia.
+*La frecuencia ya que la velocidad de conducción de fibra disminuye [7].</p>
 
 
 
 ### Electromiografia 
-<p align=justify>Por otro lado, la electromiografía, es un estudio que evalúa la salud de los músculos, lo cual es posible debido a que las células nerviosas envían señales eléctricas a medida que se producen contracciones musculares. El análisis y el registro de esta activadora bioeléctrica muscular está orientada principalmente al diagnóstico de enfermedades neuromusculares. La adquisición de las señales puede realizarse por medio de electrodos intramusculares o superficiales; los electrodos superficiales son adecuados cuando se busca, observar el comportamiento global muscular, realizar patrones de actividad temporal e identificar fatiga en uno o más músculos [8].</p>
+<p align=justify>Por otro lado, la electromiografía, es un estudio que evalúa la salud de los músculos, lo cual es posible debido a que las células nerviosas envían señales eléctricas a medida que se producen contracciones musculares. El análisis y el registro de esta activadora bioeléctrica muscular está orientada principalmente al diagnóstico de enfermedades neuromusculares. La adquisición de las señales puede realizarse por medio de electrodos intramusculares o superficiales; los electrodos superficiales son adecuados cuando se busca observar el comportamiento global muscular, realizar patrones de actividad temporal e identificar fatiga en uno o más músculos [8].</p>
 
 <p align="center">
 <img src="https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/70769712/62f38fef-b5e2-4a2e-8fa8-dcc255b9e13a"
