@@ -1,4 +1,11 @@
-# Información del Dispositivo
+# Hardware del Proyecto
+
+## Tabla de contenidos:
+* [Información del dispositivo](#información-del-dispositivo)
+* [Diseño electrónico](#diseño-electrónico)
+* [Diseño esquemático del prototipo](#diseño-esquemático-del-prototipo)
+  
+## Información del Dispositivo
 
 El dispositivo cuenta con dos carcasas principales, la carcasa para el sistema central y la carcasa para los electrodos MyoWare. Ambos diseñados en específico para adaptarse a la posición planeada de adquisición.
 
