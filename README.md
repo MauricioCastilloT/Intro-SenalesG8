@@ -17,6 +17,13 @@ En esta oportunidad trabajaremos en un proyecto de procesamiento de señales de 
 
 ## Resumen 
 
+<p align=justify>La mala postura es una de las razones principales de dolor de espalda, tanto es así que de llegar a mantenerse este hábito por mucho tiempo se pueden generar cambios estructurales en la espalda y el cuello, esto implica incluso un cambio de forma muscular gracias  a la debilitación de los mismos. Una buena postura se caracteriza por garantizar un equilibrio estable, un bajo consumo de energía y un mínimo estrés en las estructuras anatómicas, en este caso aquella que se analizará será el trapecio.</p>
+
+<p align=justify>Dicho músculo ubicado en la espalda desempeña un papel importante en mantener la postura erguida y participa en movimientos como la flexión lateral y rotación de la cabeza, así como la elevación y depresión de los hombros. Esta actividad es medida mediante electromiografía, estudio que evalúa la actividad bioeléctrica generada durante las contracciones musculares, en este proyecto se utiliza esta técnica en su modo superficial para observar el comportamiento del trapecio transversalis (zona media del trapecio), ya que ese es el segmento que controla la mayor parte el movimiento cervical y dorsal.</p>
+
+<p align=justify>El presente proyecto pretende desarrollar un prototipo de wearable para detectar los patrones electromiográficos debido a una postura incorrecta al estar sentado durante períodos prolongados. Esto usando recursos como impresión 3D y microcontrolador ESP32.</p>
+
+
 ## Introducción
 
 <p align=justify>El sistema muscular de la anatomía humana consta de un conjunto de cientos de músculos, tanto esqueléticos como viscerales que realizan movimientos voluntarios e involuntarios respectivamente; el sistema muscular comprende tres tipos de músculos,  esqueléticos, lisos y cardíacos [1].</p>
