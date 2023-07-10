@@ -16,12 +16,12 @@ En esta oportunidad trabajaremos en un proyecto de procesamiento de señales de 
 
 ## Descripción del curso:
 <!--START_SECTION:Descripción del curso-->
-El presente curso se basa en el aprendizaje acerca de los sistemas de adquisición y procesamiento de señales biomédicas. Se desarrollaran los temas de: fisiología, electrónica, informática médica y procesamiento de señales. El objetivo final del curso es el desarrollo de un proyecto en el que podamos aplicar todo lo aprendido relacionado a señales biomédicas.
+<p align="justify">El presente curso se basa en el aprendizaje acerca de los sistemas de adquisición y procesamiento de señales biomédicas. Se desarrollaran los temas de: fisiología, electrónica, informática médica y procesamiento de señales. El objetivo final del curso es el desarrollo de un proyecto en el que podamos aplicar todo lo aprendido relacionado a señales biomédicas.</p>
 <!--END_SECTION:Descripción del curso-->
 
 ## Metodología:
-Se buscará comprender las características principales del tema seleccionado por medio de lectura e investigación conjunta por parte del equipo. De esa manera se pretende abarcar más conocimiento y asignar roles según las
-habilidades de cada miembro que contribuyan a que todos comprendan y apliquen lo aprendido en un proyecto práctico.
+<p align="justify">Se buscará comprender las características principales del tema seleccionado por medio de lectura e investigación conjunta por parte del equipo. De esa manera se pretende abarcar más conocimiento y asignar roles según las
+habilidades de cada miembro que contribuyan a que todos comprendan y apliquen lo aprendido en un proyecto práctico.</p>
 
 ## Señal de interés:
 <p align="center">
