@@ -7,19 +7,19 @@
   
 ## Información del Dispositivo
 
-El dispositivo cuenta con dos carcasas principales, la carcasa para el sistema central y la carcasa para los electrodos MyoWare. Ambos diseñados en específico para adaptarse a la posición planeada de adquisición.
+<p align=justify>El dispositivo cuenta con dos carcasas principales, la carcasa para el sistema central y la carcasa para los electrodos MyoWare. Ambos diseñados en específico para adaptarse a la posición planeada de adquisición.</p>
 
-La carcasa del circuito central consta de una base con diseño curvo para adaptarse a la superficie de la espalda central y una tapa superior que permite el ingreso y salida de conectores a varios electrodos, con lo cual el wearable es adaptable a distintos tipos de adquisición por superficie.
+<p align=justify>La carcasa del circuito central consta de una base con diseño curvo para adaptarse a la superficie de la espalda central y una tapa superior que permite el ingreso y salida de conectores a varios electrodos, con lo cual el wearable es adaptable a distintos tipos de adquisición por superficie.</p>
 
-![im4](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/128628500/dea726c2-0233-4c9f-91bb-4cbecf215054)
+<p align="center">![im4](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/128628500/dea726c2-0233-4c9f-91bb-4cbecf215054)</p>
 
 
-La carcasa para los electrodos y el sensor muscular MyoWare tiene un diseño de superficie plana a diferencia del anterior, ya que son los electrodos descartables los que tendrán contacto con la piel del voluntario de pruebas y se requiere una disposición horizontal y frontal. Tanto este como el anterior diseño están pensados para ser sujetos por una banda de velcro que permita sostenerlo a la espalda.
+<p align=justify>La carcasa para los electrodos y el sensor muscular MyoWare tiene un diseño de superficie plana a diferencia del anterior, ya que son los electrodos descartables los que tendrán contacto con la piel del voluntario de pruebas y se requiere una disposición horizontal y frontal. Tanto este como el anterior diseño están pensados para ser sujetos por una banda de velcro que permita sostenerlo a la espalda.</p>
 
 ![im5](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/128628500/b33d3c77-f520-4660-a787-b175399cc5ff)
 
 
-El prototipo conceptual fue fabricado usando PLA siendo ensamblado con pernos de ¼ de grosor. Aún así, se observaron varias dificultades a la hora de poder cerrar la carcasa principal, por lo que se sugieren algunos cambios a la disposición de los orificios de salida de componentes de control como el pulsador y componentes de alarma como los LEDs.
+<p align=justify>El prototipo conceptual fue fabricado usando PLA siendo ensamblado con pernos de ¼ de grosor. Aún así, se observaron varias dificultades a la hora de poder cerrar la carcasa principal, por lo que se sugieren algunos cambios a la disposición de los orificios de salida de componentes de control como el pulsador y componentes de alarma como los LEDs.</p>
 
 ## Diseño Electrónico
 
