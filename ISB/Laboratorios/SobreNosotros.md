@@ -11,7 +11,6 @@ En esta oportunidad trabajaremos en un proyecto de procesamiento de señales de 
 * [Metodología](#metodología)
 * [Temática](#temática)
 * [Integrantes](#integrantes)
-* [Señal de interés](#señal-de-interés)
 * [Materiales](#materiales)
 * [Docentes del curso](#docentes-del-curso)
 
@@ -28,7 +27,7 @@ habilidades de cada miembro que contribuyan a que todos comprendan y
 apliquen lo aprendido en un proyecto práctico.
 
 ## Temática:
-A desarrollar durante el curso
+Para conocer sobre el desarrollo del proyecto ingresar al siguiente [enlace](https://github.com/MauricioCastilloT/Intro-SenalesG8/blob/ae19411adc0f4483081875034bad053f632d01ed/README.md)
 
 
 ## Integrantes:
@@ -74,64 +73,6 @@ Descripción: Estudiante de pregrado de la carrera de Ingeniería Biomédica. Mi
 <img src="https://user-images.githubusercontent.com/70769712/227727957-1f6a8021-506b-4642-92a5-fe25517bd548.jpg" align="center" width="120" height="150"/>
 </p>
 
-## Señal de interés:
-<p align="center">
-<img src="https://user-images.githubusercontent.com/70769712/227723068-8c282194-5027-441f-9413-37adecffa376.gif" align="center" />
-</p>
-<details> 
- <summary> <b>¿Qué es?</b>: </summary>
-<br>
-<!--START_SECTION:waka-->
-Una señal eletrocardiográfica registra la señal electrica del corazón con el fin de detectar afecciones cardiacas
-<!--END_SECTION:waka-->
-</details>
-
-<details> 
- <summary> <b>¿Cómo funciona?</b>: </summary>
-<br>
-<!--START_SECTION:waka-->
-Se colocan electrodos en el pecho y en las extremidades, los cuales estan conectados a un monitor, estos registran las señales eléctricas que permiten el bombeo del corazón. Durante esto una computadora registra la informacion obtenida la muestra en forma de ondas en un monitor o papel.
-<!--END_SECTION:waka-->
-</details>
-
-<details> 
- <summary> <b>Resultados</b>: </summary>
-<br>
-<!--START_SECTION:waka-->
-Los resultados del electrocardiograma proporcionan la siguiente información:
- 
-- Frecuencia cardíaca
- 
-- Ritmo cardíaco
- 
-- Ataque cardiaco: anterior o que este ocurriendo
- 
-- Suministro de sangre y oxígeno al corazón
- 
-- Cambios en la estructura cardíaca
- 
-<!--END_SECTION:waka-->
-</details>
-
-<details> 
- <summary> <b>¿Cuándo realizar un electrocardiograma?</b>: </summary>
-<br>
-<!--START_SECTION:waka-->
-Es recomendable realizar este estudio si se padecen los siguientes sintomas:
- 
-- Dolor en el pecho
- 
-- Mareos, aturdimiento o confusión
- 
-- Palpitaciones cardíacas
- 
-- Pulso acelerado
- 
-- Falta de aire
- 
-- Debilidad, fatiga o disminución de la capacidad de hacer ejercicio
-<!--END_SECTION:waka-->
-</details>
 
 ## Materiales:
 
