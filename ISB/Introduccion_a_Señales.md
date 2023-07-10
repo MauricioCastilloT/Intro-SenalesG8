@@ -72,7 +72,7 @@ Los resultados del electrocardiograma proporcionan la siguiente información:
  
 <p align=justify>El electromiograma (EMG) se realiza en varias situaciones clínicas para evaluar la función y la salud de los músculos y los nervios. Aquí hay algunas circunstancias en las que se puede recomendar realizar un electromiograma:</p>
 
-- **Evaluación de trastornos neuromusculares**: El EMG es útil en el diagnóstico y la evaluación de trastornos neuromusculares, como neuropatías periféricas (daño a los nervios periféricos), miopatías (enfermedades musculares) y enfermedades de la unión neuromuscular. Ayuda a identificar la ubicación y la gravedad del daño o la disfunción.
+- <p align=justify> <b>Evaluación de trastornos neuromusculares</b>: El EMG es útil en el diagnóstico y la evaluación de trastornos neuromusculares, como neuropatías periféricas (daño a los nervios periféricos), miopatías (enfermedades musculares) y enfermedades de la unión neuromuscular. Ayuda a identificar la ubicación y la gravedad del daño o la disfunción.</p>
 
 - **Debilidad muscular inexplicada**: Si una persona experimenta debilidad muscular inexplicada o pérdida de fuerza, el EMG puede ayudar a determinar si la causa se encuentra en el sistema nervioso central (cerebro y médula espinal) o en el sistema periférico (nervios y músculos).
 
