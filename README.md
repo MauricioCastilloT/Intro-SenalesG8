@@ -5,7 +5,7 @@
 print("Bienvenidos al repositorio del grupo 8.")
 
 Somos un equipo de estudiantes de Ingeniería Biomédica de las universidades PUCP y UPCH semestre 2023-1. 
-En esta oportunidad trabajaremos en un proyecto de procesamiento de señales de ECG.
+En esta oportunidad trabajaremos en un proyecto de procesamiento de señales de EMG.
 ```
 
 ## Tabla de contenidos:
