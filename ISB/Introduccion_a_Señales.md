@@ -65,22 +65,22 @@ Los resultados del electrocardiograma proporcionan la siguiente información:
 </details>
 
 <details> 
- <summary> <b>¿Cuándo realizar un electrocardiograma?</b>: </summary>
+ <summary> <b>¿Cuándo realizar un electromiograma?</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-Es recomendable realizar este estudio si se padecen los siguientes sintomas:
+<p align=justify>En la investigación, la señal EMG se utiliza para estudiar la biomecánica y la fisiología muscular, analizar los patrones de contracción muscular, evaluar la eficacia de tratamientos y terapias, así como en el desarrollo de prótesis y dispositivos de asistencia para personas con discapacidad.</p>
  
-- Dolor en el pecho
- 
-- Mareos, aturdimiento o confusión
- 
-- Palpitaciones cardíacas
- 
-- Pulso acelerado
- 
-- Falta de aire
- 
-- Debilidad, fatiga o disminución de la capacidad de hacer ejercicio
+<p align=justify>El electromiograma (EMG) se realiza en varias situaciones clínicas para evaluar la función y la salud de los músculos y los nervios. Aquí hay algunas circunstancias en las que se puede recomendar realizar un electromiograma:</p>
+
+- **Evaluación de trastornos neuromusculares**: El EMG es útil en el diagnóstico y la evaluación de trastornos neuromusculares, como neuropatías periféricas (daño a los nervios periféricos), miopatías (enfermedades musculares) y enfermedades de la unión neuromuscular. Ayuda a identificar la ubicación y la gravedad del daño o la disfunción.
+
+- **Debilidad muscular inexplicada**: Si una persona experimenta debilidad muscular inexplicada o pérdida de fuerza, el EMG puede ayudar a determinar si la causa se encuentra en el sistema nervioso central (cerebro y médula espinal) o en el sistema periférico (nervios y músculos).
+
+- **Dolor o entumecimiento en las extremidades**: El EMG puede ser utilizado para evaluar afecciones como el síndrome del túnel carpiano, la ciática y otras neuropatías compresivas que pueden causar dolor, entumecimiento o debilidad en las extremidades.
+
+- **Trastornos del movimiento**: En casos de trastornos del movimiento, como el temblor o la distonía, el EMG puede ayudar a evaluar la actividad muscular anormal y a diferenciar entre los trastornos de origen muscular y los de origen neurológico.
+
+- **Lesiones de nervios periféricos**: Si se sospecha una lesión en un nervio periférico, como una lesión por atrapamiento o una lesión traumática, el EMG puede ayudar a localizar y evaluar el alcance de la lesión.
 <!--END_SECTION:waka-->
 </details>
 
