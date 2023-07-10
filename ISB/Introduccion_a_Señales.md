@@ -33,7 +33,7 @@ habilidades de cada miembro que contribuyan a que todos comprendan y apliquen lo
  <summary> <b>¿Qué es?</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-Una señal eletrocardiográfica registra la señal electrica del corazón con el fin de detectar afecciones cardiacas
+<p align=justify>Una señal EMG (electromiografía) es una técnica que se utiliza para medir la actividad eléctrica generada por los músculos. Esta actividad eléctrica es producida por las unidades motoras, que son la combinación de una neurona motora y las fibras musculares que dicha neurona inerva. La señal EMG proporciona información sobre la actividad muscular, como la intensidad, la duración y el patrón de contracción.</p>
 <!--END_SECTION:waka-->
 </details>
 
@@ -88,7 +88,7 @@ Es recomendable realizar este estudio si se padecen los siguientes sintomas:
 
 | Material                      | Imagen referencial          | 
 | :---                          |    :----:                   |  
-| **Arduino nano 33 IoT:** <p align="justify">Placa de tamaño reducido que tiene atributos de conectividad inalámbrica, procesamiento de datos y sensores. Este sistema sería de utilidad para una futura implementación física de algún dispositivo de medición de señales electrocardiográficas.</p>   | ![arduino33](https://media.digikey.com/photos/Arduino/ABX00032.JPG)  | 
+| **Arduino nano 33 IoT:** Placa de tamaño reducido que tiene atributos de conectividad inalámbrica, procesamiento de datos y sensores. Este sistema sería de utilidad para una futura implementación física de algún dispositivo de medición de señales electrocardiográficas.   | ![arduino33](https://media.digikey.com/photos/Arduino/ABX00032.JPG)  | 
 | **BITalino:** BITalino es una plataforma de bioseñales asequible y de código abierto diseñada para la educación y la creación de prototipos. Este es el kit de herramientas ideal para ser utilizado en entornos de laboratorio y aula o para crear prototipos y aplicaciones utilizando sensores fisiológicos, el que es principal de nuestro interés es el de adquisición de señales de electrocardiograma.  | ![BIT](https://cdn.sparkfun.com//assets/parts/1/1/8/2/8/14022-01a.jpg)        | 
 | **Arduino TinyML Kit:** Compone hardware y software que permite implementar apredizaje automático en dispositivos de bajo consumo de energía. Se sirve de la plataforma Arduino y Edge Impulse. |  ![kit](https://cdn.shopify.com/s/files/1/0438/4735/2471/products/AKX00028_01.iso_934x700.jpg?v=1615313455) |
 | **Fluke ProSim 4:** Permite simular los signos vitales del paciente y es ideal para generar la señal de ECG. |  ![fluke](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCCdKhPqmxDtMztz24F8VEhXCsoWzkiCwyKR8wNg3g4_hYodQbdQj98sFE9Nv7fcQ_bH8&usqp=CAU) |
