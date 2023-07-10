@@ -59,7 +59,7 @@ Para la identificación de fatiga usando electromiografía principalmente se obs
 
 
 ### Electromiografia 
-<p align=justify>Por otro lado, la electromiografía, es un estudio que evalúa la salud de los músculos, lo cual es posible debido a que las células nerviosas envían señales eléctricas a medida que se producen contracciones musculares. El análisis y el registro de esta activadora bioeléctrica muscular está orientada principalmente al diagnóstico de enfermedades neuromusculares. La adquisición de las señales puede realizarse por medio de electrodos intramusculares o superficiales; los electrodos superficiales son adecuados cuando se busca observar el comportamiento global muscular, realizar patrones de actividad temporal e identificar fatiga en uno o más músculos [8].</p>
+<p align=justify>Por otro lado, la electromiografía, es un estudio que evalúa la salud de los músculos, lo cual es posible debido a que las células nerviosas envían señales eléctricas a medida que se producen contracciones musculares. El análisis y el registro de esta actividad bioeléctrica muscular está orientada principalmente al diagnóstico de enfermedades neuromusculares. La adquisición de las señales puede realizarse por medio de electrodos intramusculares o superficiales; los electrodos superficiales son adecuados cuando se busca observar el comportamiento global muscular, realizar patrones de actividad temporal e identificar fatiga en uno o más músculos [8].</p>
 
 <p align="center">
 <img src="https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/70769712/62f38fef-b5e2-4a2e-8fa8-dcc255b9e13a"
