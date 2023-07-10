@@ -41,7 +41,7 @@ habilidades de cada miembro que contribuyan a que todos comprendan y apliquen lo
  <summary> <b>¿Cómo funciona?</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-Se colocan electrodos en el pecho y en las extremidades, los cuales estan conectados a un monitor, estos registran las señales eléctricas que permiten el bombeo del corazón. Durante esto una computadora registra la informacion obtenida la muestra en forma de ondas en un monitor o papel.
+<p align=justify>Para registrar la señal EMG, se colocan electrodos en la piel sobre el músculo de interés. Estos electrodos captan los impulsos eléctricos generados por las unidades motoras cuando el músculo se contrae y se relaja. Los impulsos eléctricos son amplificados y convertidos en una señal gráfica o una señal digital, que muestra la actividad eléctrica del músculo a lo largo del tiempo.</p>
 <!--END_SECTION:waka-->
 </details>
 
