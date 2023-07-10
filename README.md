@@ -52,7 +52,7 @@ width="325" height="350"/>
 <p align=justify>La fatiga muscular se presenta como una disminución en la habilidad para mantener un nivel específico de fuerza durante una contracción prolongada, así como la incapacidad para alcanzar el nivel de fuerza inicial en contracciones intermitentes; el estado de fatiga se caracteriza por alteraciones en la actividad eléctrica de los músculos [7] . Al mantener una mala postura, podemos provocar fatiga muscular, en especial cuando adoptamos posturas incorrectas durante largos periodos de tiempo, en particular durante posiciones estéticas nuestros músculos deben trabajar más para mantener el equilibrio. 
 Para la identificación de fatiga usando electromiografía principalmente se observan los parámetros de: 
   
-* <b>Amplitud pico-pico</b>, donde es anticipado que la señala aumenta en amplitud ya que los músculos intentan mantener la misma fuerza reclutando unidades motoras adicionales en respuesta a la fatiga. 
+* <b>Amplitud pico-pico</b>, donde es anticipado que la señal aumenta en amplitud ya que los músculos intentan mantener la misma fuerza reclutando unidades motoras adicionales en respuesta a la fatiga. 
 * <b>La media y mediana</b> del espectro de frecuencia.
 * <b>La frecuencia</b> ya que la velocidad de conducción de fibra disminuye [7].</p>
 
