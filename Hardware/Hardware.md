@@ -33,3 +33,18 @@ La parte electrónica del dispositivo consta de los siguientes componentes:
 ![im3](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/128628500/98d604ae-af74-4687-ab8f-ed4432ed553d)
 
 
+## Diseño Esquemático del prototipo
+
+![im6](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/128628500/53ab3546-85f0-4f6b-ae2a-377cd49d7669)
+
+
+Se realizaron las conexiones como se muestran en la figura con los componentes mencionados para obtener la señal EMG. El funcionamiento del prototipo para la adquisición de la señal es la siguiente:
+Electrodos en la espalda: se colocan los electrodos en la posición discutida anteriormente. Los electrodos se posicionan sobre el Myoware.
+Conexión del ESP32 al computador: una vez colocado el sensor, se conecta el ESP32 mediante su cable USB al PC para alimentarlo.
+Estado de espera: mientras no se presione el botón, el sistema indicará mediante el Led azul que se encuentra funcionando y esperando a presionar el botón.
+Toma de la señal: cuando se presione el botón, se comenzará a obtener la señal EMG. El led azul se apagará y se prenderá el led rojo mientras dure la toma de la señal. La señal obtenida será leída por el puerto serial de la computadora.
+
+Una vez se haya realizado la toma de 15 segundos, el led rojo se apagará y se prenderá el led azul, lo cual significa que ya se puede realizar una nueva lectura.
+La señal transmitida será almacenada en un archivo .txt en la computadora.
+
+
