@@ -3,8 +3,8 @@
 El dispositivo cuenta con dos carcasas principales, la carcasa para el sistema central y la carcasa para los electrodos MyoWare. Ambos diseñados en específico para adaptarse a la posición planeada de adquisición.
 
 La carcasa del circuito central consta de una base con diseño curvo para adaptarse a la superficie de la espalda central y una tapa superior que permite el ingreso y salida de conectores a varios electrodos, con lo cual el wearable es adaptable a distintos tipos de adquisición por superficie.
+![im4](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/128628500/dea726c2-0233-4c9f-91bb-4cbecf215054)
 
-![Carcasa del circuito central](C:\Users\Lenovo\Downloads\im4.jpg)
 
 La carcasa para los electrodos y el sensor muscular MyoWare tiene un diseño de superficie plana a diferencia del anterior, ya que son los electrodos descartables los que tendrán contacto con la piel del voluntario de pruebas y se requiere una disposición horizontal y frontal. Tanto este como el anterior diseño están pensados para ser sujetos por una banda de velcro que permita sostenerlo a la espalda.
 
