@@ -44,7 +44,7 @@ Descripción: Estudiante de pregrado de la especialidad de Ingeniería Biomédic
 Descripción: Estudiante de pregrado de la carrera de Ingeniería Biomédica. Escogí esta carrera ya que me apasiona el hecho de que cada día se pueden desarrollar nuevos conocimientos gracias a las investigaciones y en base a ellas realizar innovaciones que pueden llegar a tener un gran impacto positivo en la salud de las personas. Espero poder ayudar a muchas personas a llevar una mejor calidad de vida y creo que con esta carrera será posible
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/70769712/227727344-b019be8c-e9e0-4e33-bd6c-cf32da70f809.png" align="center" width="120" height="150"/>
+<img src="https://user-images.githubusercontent.com/70769712/227727344-b019be8c-e9e0-4e33-bd6c-cf32da70f809.png" align="center" width="140" height="180"/>
 </p>
 
 3. Hernandez Lam Manuel Adrian - manuel.hernandez@upch.pe / manuel.hernandez@pucp.edu.pe
