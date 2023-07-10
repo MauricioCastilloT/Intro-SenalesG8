@@ -25,8 +25,10 @@ habilidades de cada miembro que contribuyan a que todos comprendan y apliquen lo
 
 ## Señal de interés:
 <p align="center">
-<img src="https://user-images.githubusercontent.com/70769712/227723068-8c282194-5027-441f-9413-37adecffa376.gif" align="center" />
+<img src="https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/112776840/de61292c-0a76-4749-8c78-2d5a7a2d4290" align="center" />
 </p>
+
+
 <details> 
  <summary> <b>¿Qué es?</b>: </summary>
 <br>
