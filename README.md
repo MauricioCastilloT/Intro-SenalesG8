@@ -28,7 +28,10 @@ El sistema muscular de la anatomía humana consta de un conjunto de cientos de m
 | ![image](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/70769712/0eca334d-5393-4a47-9e30-ba06e06b641e)|![image](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/70769712/aa5d5e7d-7b18-40f7-8d99-e20fad612b7a)| ![image](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/70769712/f214e581-5279-4d49-9f12-56dbd013d9f0)|
 
 </div>
-  
+<p align="center">
+  <em>Imagen 2. Motivación del proyecto </em>
+</p>
+
 ### Músculo esquelético
 <p align=justify>Los músculos esqueléticos están distribuidos a lo largo de todo el cuerpo donde tienen diferentes formas, tamaños y disposición de fibras; este tipo de músculos son los encargados del movimiento voluntario de los esqueletos axial y apendicular, también es el principal encargado de mantener la postura y posición corporal [2]. 
 En la espalda hay una variedad de músculos que cumplen diferentes funciones; proporcionan soporte a la columna vertebral y el tronco, facilitan el movimiento del cuerpo, mantienen la postura erguida y asisten en la respiración; y se subdividen en músculos extrínsecos e intrínsecos [3]. El trapecio es un músculo extrínseco que se encuentra en la parte superficial de la espalda,  es amplio, plano y se extiende desde la región cervical hasta la parte torácica del tronco; este músculo desempeña un papel importante en la postura ya que ayuda a mantener la columna vertebral erguida y también participa en movimientos activos como la flexión lateral y rotación de la cabeza , la elevacion y depresión de hombros [4].</p>
