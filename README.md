@@ -42,6 +42,10 @@ En la espalda hay una variedad de músculos que cumplen diferentes funciones; pr
 width="325" height="350"/>
 </p>
 
+<p align="center">
+  <em>Figura 1. Músculo trapecio </em>
+</p>
+
 ### Postura
 <p align=justify>La postura se puede definir como toda posición que determina el mantenimiento del equilibrio, mínimo consumo de energía y mínimo estrés de las estructuras anatómicas por las que está controlado [5], el mantener una buena postura es muy importante  para la salud; sin embargo, desarrollar un hábito de buena postura no es sencillo y la falta de corrección de la misma puede provocar, con el tiempo, consecuencias negativas duraderas en el sistema musculoesquelético del cuerpo e incluso en otros sistemas [6].</p>
 
@@ -52,6 +56,10 @@ width="325" height="350"/>
 |![image](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/70769712/9292cadc-5278-4f19-8dd3-cd8ab0afa260)|![image](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/70769712/9b07bb4b-9c1b-460a-8cb2-f6e66d3fdce5)|
 
 </div>
+
+<p align="center">
+  <em>Figura 2. Comparación de posturas </em>
+</p>
 
 <p align=justify>La fatiga muscular se presenta como una disminución en la habilidad para mantener un nivel específico de fuerza durante una contracción prolongada, así como la incapacidad para alcanzar el nivel de fuerza inicial en contracciones intermitentes; el estado de fatiga se caracteriza por alteraciones en la actividad eléctrica de los músculos [7] . Al mantener una mala postura, podemos provocar fatiga muscular, en especial cuando adoptamos posturas incorrectas durante largos periodos de tiempo, en particular durante posiciones estéticas nuestros músculos deben trabajar más para mantener el equilibrio. 
 Para la identificación de fatiga usando electromiografía principalmente se observan los parámetros de: 
