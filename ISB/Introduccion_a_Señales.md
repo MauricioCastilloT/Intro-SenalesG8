@@ -4,7 +4,7 @@
 print("Bienvenidos al repositorio del grupo 8.")
 
 Somos un equipo de estudiantes de Ingeniería Biomédica de las universidades PUCP y UPCH semestre 2023-1. 
-En esta oportunidad trabajaremos en un proyecto de procesamiento de señales de ECG.
+En esta oportunidad trabajaremos en un proyecto de procesamiento de señales de EMG.
 ```
 ## Tabla de contenidos:
 * [Descripción del curso](#descripción-del-curso)
@@ -16,11 +16,11 @@ En esta oportunidad trabajaremos en un proyecto de procesamiento de señales de 
 
 ## Descripción del curso:
 <!--START_SECTION:Descripción del curso-->
-El presente curso se basa en el aprendizaje acerca de los sistemas de adquisición y procesamiento de señales biomédicas. Se desarrollaran los temas de: fisiología, electrónica, informática médica y procesamiento de señales. El objetivo final del curso es el desarrollo de un proyecto en el que podamos aplicar todo lo aprendido relacionado a señales biomedicas.
+El presente curso se basa en el aprendizaje acerca de los sistemas de adquisición y procesamiento de señales biomédicas. Se desarrollaran los temas de: fisiología, electrónica, informática médica y procesamiento de señales. El objetivo final del curso es el desarrollo de un proyecto en el que podamos aplicar todo lo aprendido relacionado a señales biomédicas.
 <!--END_SECTION:Descripción del curso-->
 
 ## Metodología:
-Se buscará comprender las características prinicpales del tema seleccionado por medio de lectura e investigación conjunta por parte del equipo. De esa manera se pretende abarcar más conocimiento y asignar roles según las
+Se buscará comprender las características principales del tema seleccionado por medio de lectura e investigación conjunta por parte del equipo. De esa manera se pretende abarcar más conocimiento y asignar roles según las
 habilidades de cada miembro que contribuyan a que todos comprendan y apliquen lo aprendido en un proyecto práctico.
 
 ## Señal de interés:
