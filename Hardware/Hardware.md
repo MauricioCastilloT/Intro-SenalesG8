@@ -46,15 +46,15 @@
 
 ## Diseño Esquemático del prototipo
 
-![im6](https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/128628500/53ab3546-85f0-4f6b-ae2a-377cd49d7669)
+<p align="center"><img src=https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/128628500/53ab3546-85f0-4f6b-ae2a-377cd49d7669/></p>
 
 
 <p align=justify>Se realizaron las conexiones como se muestran en la figura con los componentes mencionados para obtener la señal EMG. El funcionamiento del prototipo para la adquisición de la señal es la siguiente:</p>
 
-- Electrodos en la espalda: se colocan los electrodos en la posición discutida anteriormente. Los electrodos se posicionan sobre el Myoware.
-- Conexión del ESP32 al computador: una vez colocado el sensor, se conecta el ESP32 mediante su cable USB al PC para alimentarlo.
-- Estado de espera: mientras no se presione el botón, el sistema indicará mediante el Led azul que se encuentra funcionando y esperando a presionar el botón.
-- Toma de la señal: cuando se presione el botón, se comenzará a obtener la señal EMG. El led azul se apagará y se prenderá el led rojo mientras dure la toma de la señal. La señal obtenida será leída por el puerto serial de la computadora.
+- <p align=justify> <b>Electrodos en la espalda:</b> se colocan los electrodos en la posición discutida anteriormente. Los electrodos se posicionan sobre el Myoware.</p>
+- <p align=justify> <b>Conexión del ESP32 al computador:</b> una vez colocado el sensor, se conecta el ESP32 mediante su cable USB al PC para alimentarlo.</p>
+- <p align=justify> <b>Estado de espera:</b> mientras no se presione el botón, el sistema indicará mediante el Led azul que se encuentra funcionando y esperando a presionar el botón.</p>
+- <p align=justify> <b>Toma de la señal:</b> cuando se presione el botón, se comenzará a obtener la señal EMG. El led azul se apagará y se prenderá el led rojo mientras dure la toma de la señal. La señal obtenida será leída por el puerto serial de la computadora.</p>
 
   Una vez se haya realizado la toma de 15 segundos, el led rojo se apagará y se prenderá el led azul, lo cual significa que ya se puede realizar una nueva lectura.
   La señal transmitida será almacenada en un archivo .txt en la computadora.
