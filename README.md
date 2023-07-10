@@ -110,6 +110,51 @@ width="400" height="250"/>
 
 ## Principales hallazgos
 
+<p align=justify>Tras realizar las adquisiciones correspondientes, se obtuvieron un total de 150 señales, las cuales se dividieron en 75 señales emg representantes de una buena postura y 75 señales emg representantes de una mala postura. El fin de obtener dichas señales fue poder diseñar un algoritmo de clasificación capaz de diferenciar la actividad muscular emitida al realizar ambos tipos de postura, para ello el primer paso a realizar fue el análisis y filtrado de la señal.</p>
+
+<p align=justify>Una vez obtenido el filtro se aplicó a cada señal emg de tanto buena como mala postura, los resultados de la señal correctamente filtrada los podemos observar en las siguientes figuras:</p>
+
+
+<p align="center">
+<img src="https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/112776840/6c943237-effe-4151-aa14-65bb90094da4"/>
+</p>
+<p align="center">
+  <em>Figura 5. Señal EMG filtrada </em>
+</p>
+
+<p align="center">
+<img src="https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/112776840/2a0eeff0-070c-498d-ab8a-7b32f5901bad"/>
+</p>
+<p align="center">
+  <em>Figura 6. Señal EMG filtrada </em>
+</p>
+
+
+<p align=justify>Los resultados nos dieron el indicio de una señal correctamente filtrada en donde se logró eliminar el ruido no deseado que no permitía analizar las características de las señales, podemos ver también que se mantuvo la amplitud de la señal tras aplicado el filtro así como los aparentes picos correspondientes a la presencia de actividad muscular.</p>
+
+<p align=justify>Posteriormente se realizó el proceso de división de la información en matrices, en dicho proceso es que opta por analizar ciertos criterior que puedan ayudar a diferenciar entre señales EMG. Tras el análisis de la característica de la señal se pudo evidenciar que aquellas con mayor porcentaje de importancia correspondían a las que describían en cierta medida la amplitud general de la señal. Entre estas se encuentra el RMS.</p>
+
+<p align=justify>Una vez obtenidos las características más resaltantes que nos ayudarán al propósito del proyecto se realizó el diseño del algoritmo de clasificación Random Forest con aquellas señales que obtuvieron un score mayor a 0.05, obteniéndose los siguientes resultados:</p>
+
+<p align="center">
+<img src="https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/112776840/18002469-4700-48ef-a029-98a66aaae86c"/>
+</p>
+<p align="center">
+  <em>Figura 7. Matriz de clasificación </em>
+</p>
+
+
+<p align=justify>Finalmente se analizaron las características más importantes de un modelo de clasificación las cuales fueron el accuracy, el f1 score, la precisión, el recall y la especificidad del modelo.</p>
+
+<p align="center">
+<img src="https://github.com/MauricioCastilloT/Intro-SenalesG8/assets/112776840/92e4955d-f92a-4658-9304-970c947fd380"/>
+</p>
+<p align="center">
+  <em>Figura 8. Características del modelo de clasificación </em>
+</p>
+
+
+
 ## Bibliografía
 
 - [1] U. De Aprendizaje, Sistemas, A. Monografia, Sistema, M. Por, and Hermilo Sánchez Sánchez, “UNIVERSIDAD AUTONOMA DEL ESTADO DE MEXICO FACULTAD DE CIENCIAS LICENCIATURA EN BIOLOGIA.” Available: http://ri.uaemex.mx/bitstream/handle/20.500.11799/107975/secme-10856_1.pdf?sequence=1‌
