@@ -105,11 +105,11 @@ width="400" height="250"/>
 
 ## Bibliografía
 
-[1] U. De Aprendizaje, Sistemas, A. Monografia, Sistema, M. Por, and Hermilo Sánchez Sánchez, “UNIVERSIDAD AUTONOMA DEL ESTADO DE MEXICO FACULTAD DE CIENCIAS LICENCIATURA EN BIOLOGIA.” Available: http://ri.uaemex.mx/bitstream/handle/20.500.11799/107975/secme-10856_1.pdf?sequence=1‌
-[2] “Muscle Types | SEER Training,” Cancer.gov, 2023. https://training.seer.cancer.gov/anatomy/muscular/types.html (accessed Jul. 09, 2023).
-[3] C. Clinic, “Back Muscles: Anatomy and Function of Upper, Middle & Lower Back - Cleveland Clinic,” Cleveland Clinic, 2021. https://my.clevelandclinic.org/health/body/21632-back-muscles (accessed Jul. 09, 2023).
-[4 “Trapezius,” Physiopedia, 2022. https://www.physio-pedia.com/Trapezius (accessed Jul. 09, 2023).
-[5] F. Carini et al., “Posture and posturology, anatomical and physiological profiles: overview and current state of art.,” vol. 88, no. 1, pp. 11–16, Apr. 2017, doi: https://doi.org/10.23750/abm.v88i1.5309.
-[6] franklinpt, “La importancia de la postura para la salud musculoesquelética - Franklin Square Health Group,” Franklin Square Health Group, Oct. 20, 2020. https://franklinsquarept.com/postura-salud-musculoesqueltica/?lang=es (accessed Jul. 09, 2023).
-[7] J. M. Fernández, R. C. Acevedo, and C. B. Tabernig, “INFLUENCIA DE LA FATIGA MUSCULAR EN LA SEÑAL ELECTROMIOGRÁFICA DE MÚSCULOS ESTIMULADOS ELÉCTRICAMENTE,” Revista EIA, no. 7, pp. 111–119, 2023, Accessed: Jul. 09, 2023. [Online]. Available: http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1794-12372007000100010
-[8] “Electromiografía y estudios de conducción nerviosa,” Medlineplus.gov, 2019. https://medlineplus.gov/spanish/pruebas-de-laboratorio/electromiografia-y-estudios-de-conduccion-nerviosa/ (accessed Jul. 09, 2023).
+- [1] U. De Aprendizaje, Sistemas, A. Monografia, Sistema, M. Por, and Hermilo Sánchez Sánchez, “UNIVERSIDAD AUTONOMA DEL ESTADO DE MEXICO FACULTAD DE CIENCIAS LICENCIATURA EN BIOLOGIA.” Available: http://ri.uaemex.mx/bitstream/handle/20.500.11799/107975/secme-10856_1.pdf?sequence=1‌
+- [2] “Muscle Types | SEER Training,” Cancer.gov, 2023. https://training.seer.cancer.gov/anatomy/muscular/types.html (accessed Jul. 09, 2023).
+- [3] C. Clinic, “Back Muscles: Anatomy and Function of Upper, Middle & Lower Back - Cleveland Clinic,” Cleveland Clinic, 2021. https://my.clevelandclinic.org/health/body/21632-back-muscles (accessed Jul. 09, 2023).
+- [4] “Trapezius,” Physiopedia, 2022. https://www.physio-pedia.com/Trapezius (accessed Jul. 09, 2023).
+- [5] F. Carini et al., “Posture and posturology, anatomical and physiological profiles: overview and current state of art.,” vol. 88, no. 1, pp. 11–16, Apr. 2017, doi: https://doi.org/10.23750/abm.v88i1.5309.
+- [6] franklinpt, “La importancia de la postura para la salud musculoesquelética - Franklin Square Health Group,” Franklin Square Health Group, Oct. 20, 2020. https://franklinsquarept.com/postura-salud-musculoesqueltica/?lang=es (accessed Jul. 09, 2023).
+- [7] J. M. Fernández, R. C. Acevedo, and C. B. Tabernig, “INFLUENCIA DE LA FATIGA MUSCULAR EN LA SEÑAL ELECTROMIOGRÁFICA DE MÚSCULOS ESTIMULADOS ELÉCTRICAMENTE,” Revista EIA, no. 7, pp. 111–119, 2023, Accessed: Jul. 09, 2023. [Online]. Available: http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1794-12372007000100010
+- [8] “Electromiografía y estudios de conducción nerviosa,” Medlineplus.gov, 2019. https://medlineplus.gov/spanish/pruebas-de-laboratorio/electromiografia-y-estudios-de-conduccion-nerviosa/ (accessed Jul. 09, 2023).
